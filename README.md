@@ -37,8 +37,8 @@ Evaluate the model with the testing data using probability prediction(uninfected
 Fit the model and predict the sample input.
 ## PROGRAM
 ```
-Developed by:D.vishnu vardhan reddy
-Reg No: 212221230023
+Developed by:p.syam Tej
+Reg No: 212221240056
 ```
 ```
 import os
